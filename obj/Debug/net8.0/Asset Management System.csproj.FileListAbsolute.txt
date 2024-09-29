@@ -1,0 +1,15 @@
+C:\Users\shivesh.trivedi\source\repos\Asset Management System\Asset Management System\bin\Debug\net8.0\Asset Management System.exe
+C:\Users\shivesh.trivedi\source\repos\Asset Management System\Asset Management System\bin\Debug\net8.0\Asset Management System.deps.json
+C:\Users\shivesh.trivedi\source\repos\Asset Management System\Asset Management System\bin\Debug\net8.0\Asset Management System.runtimeconfig.json
+C:\Users\shivesh.trivedi\source\repos\Asset Management System\Asset Management System\bin\Debug\net8.0\Asset Management System.dll
+C:\Users\shivesh.trivedi\source\repos\Asset Management System\Asset Management System\bin\Debug\net8.0\Asset Management System.pdb
+C:\Users\shivesh.trivedi\source\repos\Asset Management System\Asset Management System\obj\Debug\net8.0\Asset Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivesh.trivedi\source\repos\Asset Management System\Asset Management System\obj\Debug\net8.0\Asset Management System.AssemblyInfoInputs.cache
+C:\Users\shivesh.trivedi\source\repos\Asset Management System\Asset Management System\obj\Debug\net8.0\Asset Management System.AssemblyInfo.cs
+C:\Users\shivesh.trivedi\source\repos\Asset Management System\Asset Management System\obj\Debug\net8.0\Asset Management System.csproj.CoreCompileInputs.cache
+C:\Users\shivesh.trivedi\source\repos\Asset Management System\Asset Management System\obj\Debug\net8.0\Asset Management System.dll
+C:\Users\shivesh.trivedi\source\repos\Asset Management System\Asset Management System\obj\Debug\net8.0\refint\Asset Management System.dll
+C:\Users\shivesh.trivedi\source\repos\Asset Management System\Asset Management System\obj\Debug\net8.0\Asset Management System.pdb
+C:\Users\shivesh.trivedi\source\repos\Asset Management System\Asset Management System\obj\Debug\net8.0\Asset Management System.genruntimeconfig.cache
+C:\Users\shivesh.trivedi\source\repos\Asset Management System\Asset Management System\obj\Debug\net8.0\ref\Asset Management System.dll
+C:\Users\shivesh.trivedi\source\repos\Asset Management System\Asset Management System\obj\Debug\net8.0\Asset Management System.sourcelink.json
