@@ -1,7 +1,4 @@
-﻿//using Microsoft.EntityFrameworkCore;
-//using Todo.Context;
-
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using Todo.Models;
 namespace Todo.Context
 {

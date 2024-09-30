@@ -16,7 +16,8 @@ namespace Todo.Models
 
         public string Email { get; set; }
         public string Password { get; set; }
-
-        //public virtual ICollection<UserTask> Tasks { get; set; } = new List<UserTask>();
     }
 }
+
+
+
